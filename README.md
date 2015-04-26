@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data-Course-Project
 
-This ripo is created for the coursera project on getting and cleaning Data. The raw data was given and can be downloaded via this link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+This repo is created for the coursera project on getting and cleaning Data. The raw data was given and can be downloaded via this link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 
 ## The R script will do the following:
